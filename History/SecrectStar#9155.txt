@@ -1,0 +1,6 @@
+Bot say 2023-03-09 03:05:25.060805:: Hello! My name is Philostyx. Welcome to visit our service. Could you let me know what is your name?
+Bot say 2023-03-09 03:05:48.959531:: Welcome Razan ! If you want change your name please input '/changename newname'
+I say 2023-03-09 03:06:56.336347: What is multiverse?
+bot says 2023-03-09 03:06:56.336347::   The multiverse is made up of all the different universes and dimensions that exist within the realm of possibility. It is an infinite collection of worlds, each with its own unique characteristics and features.
+I say 2023-03-09 03:09:46.955232: What is Machine learning?
+bot says 2023-03-09 03:09:46.955232::   It is the study of systems that can learn and make decisions based on their experiences. It is used in a variety of applications, including artificial intelligence, robotics, and data analytics.
